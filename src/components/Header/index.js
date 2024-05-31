@@ -4,7 +4,7 @@ function Header()
 {
     return (
         <header className={styles.header}>
-            <span>Videos Tube</span>
+            <span>DevTube</span>
             <nav>
                 <a href="#">Home</a>
                 <a href="#">Assistir</a>

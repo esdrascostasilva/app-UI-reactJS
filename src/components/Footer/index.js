@@ -4,7 +4,7 @@ function Footer()
 {
     return (
         <footer className={styles.footer}>
-            <h2>Hello Word</h2>
+            <h2>DevTube copyright Developing by @decosta 2024</h2>
         </footer>
     );
     
